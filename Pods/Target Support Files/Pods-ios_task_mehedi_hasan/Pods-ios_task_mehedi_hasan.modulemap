@@ -1,0 +1,6 @@
+framework module Pods_ios_task_mehedi_hasan {
+  umbrella header "Pods-ios_task_mehedi_hasan-umbrella.h"
+
+  export *
+  module * { export * }
+}
